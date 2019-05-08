@@ -8,10 +8,8 @@ of items.
 
 `git clone https://github.com/Overflow404/Diep.io-clone`
 
-## Code Examples
-```
-Open home.html
-```
+## Try it
+https://overflow404.github.io/Diep.io-clone/
 
 ## Built With
 
